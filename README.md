@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **react, html, and css**
+- 💬 Ask me about **react, html, css and JS**
 
 - 📫 How to reach me **samyalaa123490@gmail.com**
 
